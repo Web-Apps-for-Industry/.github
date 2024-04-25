@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Web+Apps+for+Industry;The+leading+software+engineering+company+for+the+industry;Technical+Web+Applications+for+the+Industry)](https://webappsforindustry.tech/)
 
 <div align="center">
-<a href="https://www.webappsforindustry.tech" title="Web Apps for Industry website"><img src="./icons/website-tr.png" alt="Website icon" width="41px" height="41px"></a> 
+<a href="https://www.webappsforindustry.tech" title="Web Apps for Industry website"><img src="./icons/website-tr.png" alt="Website icon" width="41px" height="41px">&nbsp;</a> 
 <a href="https://www.linkedin.com/company/web-apps-for-industry" title="Linkedin"><img src="./icons/linkedin-tr.png" alt="Linkedin logo" width="41px" height="41px"></a>
 <a href="https://www.youtube.com/@webappsforindustry" title="Youtube"><img src="./icons/youtube-tr.png" alt="Youtube logo" width="61px" height="41px"></a>
 
